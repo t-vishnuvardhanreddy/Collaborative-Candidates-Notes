@@ -59,7 +59,7 @@
 
 ---------------------------------------------------------------------------------------------------
 
-->Setup:
+->SETUP:
 
 --> git clone https://github.com/t-vishnuvardhanreddy/Collaborative-Candidates-Notes.git
 --> cd Collaborative-Candidates-Notes
@@ -74,8 +74,9 @@ Server running at "http://localhost:3000"
 
 --> cd backend
 --> npm install
+--> node server.js
 
-Server running at http://localhost:5000
+Server running at "http://localhost:5000"
 
 
-web URL: https://github.com/t-vishnuvardhanreddy/Collaborative-Candidates-Notes/tree/master.
+Web URL: https://github.com/t-vishnuvardhanreddy/Collaborative-Candidates-Notes/tree/master.
