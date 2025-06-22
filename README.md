@@ -69,7 +69,7 @@
 --> npm install
 --> npm start.
 
-Server running at "http://localhost:3000/"
+Server running at "http://localhost:3000"
 
 
 --> cd backend
