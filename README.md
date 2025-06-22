@@ -8,27 +8,27 @@
 
 -> Key Features:
 
---> 1. Authentication-
+-->  Authentication-
  	Secure user **sign-up and login** using name, email, and password.
  	JWT-based route protection — unauthenticated users are redirected to login.
   
---> 2. Dashboard-
+-->  Dashboard-
    	Authenticated users land on a "dashboard".
 	"Candidate List": Create and view dummy candidates with name and email.
 	"Mentions Panel": See real-time @mentions addressed to the logged-in user.
 
---> 3. Candidate Notes
+-->  Candidate Notes
 	 Clicking a candidate opens a dedicated notes view.
 	 Real-time messaging interface powered by Using "Socket.IO.
 	 @username tagging with autocomplete.
 	 Mentions automatically notify the tagged user.
 
---> 4. Real-Time Communication
+-->  Real-Time Communication
 	 Notes are broadcasted to all users viewing the candidate's notes page as well as adding the Candidate.
 	 Mentions trigger Using A toast notification.
   	 An entry in the dashboard notifications card.
 
---> 5. Global Notifications Card
+-->  Global Notifications Card
 	 Lists all messages where the current user was tagged.
 	 Clicking a notification scrolls to and highlights the specific note.
 
@@ -80,3 +80,11 @@ Server running at "http://localhost:5000"
 
 
 Web URL: https://github.com/t-vishnuvardhanreddy/Collaborative-Candidates-Notes/tree/master.
+
+
+Authorized by T. VISHNUVARDHAN REDDY.
+Purpose Algohire Hiring Hackathon.
+Deployed on 22 jun 2025.
+
+-----------------------------------------------------------------------------------------------
+
