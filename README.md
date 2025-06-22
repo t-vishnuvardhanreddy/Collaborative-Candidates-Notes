@@ -83,7 +83,7 @@ Web URL: https://github.com/t-vishnuvardhanreddy/Collaborative-Candidates-Notes/
 
 
 Authorized by T. VISHNUVARDHAN REDDY.
-Purpose Algohire Hiring Hackathon.
+Purpose: Algohire Hiring Hackathon.
 Deployed on 22 jun 2025.
 
 -----------------------------------------------------------------------------------------------
