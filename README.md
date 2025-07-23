@@ -80,7 +80,8 @@ Server running at "http://localhost:5000"
 
 
 Web URL: https://github.com/t-vishnuvardhanreddy/Collaborative-Candidates-Notes/tree/master.
-
+Documentation : https://drive.google.com/file/d/1kioG6R_SJRNPPB5R8hTZrKmp6D2FQZko/view?usp=drivesdk
+Video Presentation: https://drive.google.com/file/d/1Aulz1_iqq250jiZsela9Wh_1t-x-LjWK/view?usp=drivesdk 
 
 Authorized by T. VISHNUVARDHAN REDDY.
 Purpose: Algohire Hiring Hackathon.
